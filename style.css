@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    font-family: monospace;
+    font-size: large;
+}
+.padding-box{
+    margin:8px;
+    background-color: whitesmoke;width: 60%;
+}
+.input_information{
+    padding: 8px;
+    margin: 4px;
+}
+.deleteText{
+    background-color: red;
+    margin: 4px;
+    padding:4px;
+}
